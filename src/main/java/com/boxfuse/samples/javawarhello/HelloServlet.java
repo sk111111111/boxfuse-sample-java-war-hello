@@ -11,3 +11,4 @@ public class HelloServlet extends HttpServlet {
         System.out.println("HelloServlet: You should see this in the Instance Logs :-)");
     }
 }
+*hello
